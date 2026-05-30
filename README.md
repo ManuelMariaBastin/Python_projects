@@ -1,4 +1,6 @@
 # Python_projects
+
+# Rock Paper Scissor Game
 Python scripts
 In this mini project, the game is developed  where the user plays against the computer. The project demonstrates the use of programming concepts such as variables, conditional statements, iterative statements, random choice generation, and user interaction.
 
